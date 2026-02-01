@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+.dist-info/
+build/
+dist/
+
+# venv / uv
+.venv/
+.uv/
+
+# OS/Editor
+.vscode/
+.DS_Store
