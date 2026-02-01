@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: flet360
+Version: 0.1.0
+Summary: Flet360 - mini apps e mini games em Python
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: flet>=0.25.0
